@@ -1,5 +1,3 @@
-tiktok-developers-site-verification=5tsWYfAsTroku3g9n7FJec6eCt2SOZpA
-
 Privacy Policy
 TLDR;
 
