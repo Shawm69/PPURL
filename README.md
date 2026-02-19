@@ -1,3 +1,5 @@
+tiktok-developers-site-verification=5tsWYfAsTroku3g9n7FJec6eCt2SOZpA
+
 Privacy Policy
 TLDR;
 
@@ -10,7 +12,7 @@ Services and Definitions
 This Privacy Policy applies to apps and services developed by the developer, including:
 
 "Greggs posting suite" Facebook apps.
-
+"GreggoMyEggo" Tictok apps.
 
 These software and services are provided as either free or paid, as specified in individual products, and are offered as is without warranty of any kind. Additional services might be provided at a cost; please refer to indications within individual products. SneakBit is a paid game.
 Privacy Policy
